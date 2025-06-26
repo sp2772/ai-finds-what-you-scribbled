@@ -1,6 +1,7 @@
 # ai-finds-what-you-scribbled
 a prediction pipeline based on QuickDraw Images public Dataset
 
+FIND DJANGO IMPLEMENTATION OF THE MODEL IN SCIBBLE PROJECT
 
 QuickDraw-Scribble-CNN
 
